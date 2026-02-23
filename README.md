@@ -28,19 +28,7 @@ AKS-Kernel/
 ├─ LICENSE.md
 ├─ security.md
 ├─ docs/
-│  ├─ overview.md
-│  ├─ architecture.md
-│  ├─ modules.md
-│  └─ memory_management.md
 ├─ src/
-│  ├─ kernel.c
-│  ├─ memory.c
-│  ├─ interrupts.c
-│  └─ drivers/
 ├─ include/
-│  ├─ kernel.h
-│  ├─ memory.h
-│  └─ interrupts.h
 ├─ tests/
-│  └─ basic_boot_test.md
 └─ .gitignore
