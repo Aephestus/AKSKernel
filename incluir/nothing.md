@@ -1,5 +1,0 @@
----
-
-# New things are coming
-
----
