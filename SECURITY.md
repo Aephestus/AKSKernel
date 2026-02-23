@@ -1,6 +1,6 @@
 ---
 
-# Security Policy for AKS-Kernel
+# Security Policy for AKSKernel
 
 ## This document outlines the security policies, reporting procedures, and best practices for the **Aephestus Kernel System (AKS)**. Its goal is to ensure that all collaborators, users, and private teams using the kernel are aware of security responsibilities, reporting channels, and mitigation strategies.
 
