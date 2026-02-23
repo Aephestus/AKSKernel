@@ -98,11 +98,11 @@ Failure to comply with any section of this license constitutes **license violati
 
 ## 8. Summary
 
-- Private use: ✅ Allowed  
-- Commercial use: ❌ Not allowed without permission  
-- Copyleft compliance: ✅ Required even in private scope  
-- Attribution: ✅ Must be retained  
-- Warranty: ❌ None provided  
+- Private use: Allowed  
+- Commercial use: Not allowed without permission  
+- Copyleft compliance: Required even in private scope  
+- Attribution: Must be retained  
+- Warranty: None provided  
 
 ---
 
