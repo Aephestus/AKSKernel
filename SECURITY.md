@@ -98,7 +98,7 @@ To maintain a secure kernel environment:
 
 For all security-related concerns:
 
-- **Email:** security@aephestus.dev  
+- **Email:** aephestus@outlook.com  
 - **Private repository channels:** Use the designated secure communication method for internal collaborators
 
 Aephestus maintains a **zero-tolerance policy for malicious use**, exploitation of private vulnerabilities, or public disclosure before resolution.
