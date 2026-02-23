@@ -44,5 +44,3 @@ AKS-Kernel/
 ├─ tests/
 │  └─ basic_boot_test.md
 └─ .gitignore
-
----
