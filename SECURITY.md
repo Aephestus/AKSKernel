@@ -11,7 +11,7 @@
 Aephestus encourages responsible disclosure of security vulnerabilities. If you discover a security flaw in the AKS kernel or associated modules, please follow these steps:
 
 1. **Do not publicly disclose the issue** until it has been resolved.
-2. **Report the vulnerability privately** to Aephestus via email at: `security@aephestus.dev` (or private communication channels agreed upon for collaborators).
+2. **Report the vulnerability privately** to Aephestus via email at: `aephestus@outlook.com` (or private communication channels agreed upon for collaborators).
 3. Include in your report:
    - Detailed description of the vulnerability
    - Steps to reproduce
